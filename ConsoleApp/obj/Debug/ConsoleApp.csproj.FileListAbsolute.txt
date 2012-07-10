@@ -1,0 +1,5 @@
+D:\01. Jobz\ConsoleApp\obj\Debug\ResolveAssemblyReference.cache
+D:\01. Jobz\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\01. Jobz\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\01. Jobz\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\01. Jobz\ConsoleApp\obj\Debug\ConsoleApp.pdb
