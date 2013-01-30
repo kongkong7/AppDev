@@ -1,0 +1,10 @@
+D:\01. Jobz\C#Project\MultiRDP\CommonTools\bin\x64\Debug\CommonTools.dll
+D:\01. Jobz\C#Project\MultiRDP\CommonTools\bin\x64\Debug\CommonTools.pdb
+D:\01. Jobz\C#Project\MultiRDP\CommonTools\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\01. Jobz\C#Project\MultiRDP\CommonTools\obj\x64\Debug\CommonTools.ColorPickerCtrl.resources
+D:\01. Jobz\C#Project\MultiRDP\CommonTools\obj\x64\Debug\CommonTools.ColorPickerDialog.resources
+D:\01. Jobz\C#Project\MultiRDP\CommonTools\obj\x64\Debug\CommonTools.ColorWheelCtrl.resources
+D:\01. Jobz\C#Project\MultiRDP\CommonTools\obj\x64\Debug\CommonTools.PropertyDialog.resources
+D:\01. Jobz\C#Project\MultiRDP\CommonTools\obj\x64\Debug\CommonTools.csproj.GenerateResource.Cache
+D:\01. Jobz\C#Project\MultiRDP\CommonTools\obj\x64\Debug\CommonTools.dll
+D:\01. Jobz\C#Project\MultiRDP\CommonTools\obj\x64\Debug\CommonTools.pdb

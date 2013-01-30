@@ -1,0 +1,8 @@
+D:\01. Jobz\C#Project\MultiRDP\Sqlite\bin\2008\DebugCompact\bin\System.Data.SQLite.xml
+D:\01. Jobz\C#Project\MultiRDP\Sqlite\bin\2008\DebugCompact\bin\System.Data.SQLite.dll
+D:\01. Jobz\C#Project\MultiRDP\Sqlite\bin\2008\DebugCompact\bin\System.Data.SQLite.pdb
+D:\01. Jobz\C#Project\MultiRDP\Sqlite\obj\2008\Compact\Debug\ResolveAssemblyReference.cache
+D:\01. Jobz\C#Project\MultiRDP\Sqlite\obj\2008\Compact\Debug\System.Data.SQLite.SR.resources
+D:\01. Jobz\C#Project\MultiRDP\Sqlite\obj\2008\Compact\Debug\System.Data.SQLite.Compact.2008.csproj.GenerateResource.Cache
+D:\01. Jobz\C#Project\MultiRDP\Sqlite\obj\2008\Compact\Debug\System.Data.SQLite.dll
+D:\01. Jobz\C#Project\MultiRDP\Sqlite\obj\2008\Compact\Debug\System.Data.SQLite.pdb

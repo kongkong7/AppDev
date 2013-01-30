@@ -1,0 +1,5 @@
+D:\01. Jobz\C#Project\MultiRDP\Sqlite\bin\2008\Debug\bin\Installer.exe
+D:\01. Jobz\C#Project\MultiRDP\Sqlite\bin\2008\Debug\bin\Installer.pdb
+D:\01. Jobz\C#Project\MultiRDP\Sqlite\obj\2008\Debug\ResolveAssemblyReference.cache
+D:\01. Jobz\C#Project\MultiRDP\Sqlite\obj\2008\Debug\Installer.exe
+D:\01. Jobz\C#Project\MultiRDP\Sqlite\obj\2008\Debug\Installer.pdb

@@ -1,0 +1,6 @@
+D:\01. Jobz\C#Project\MultiRDP\MsTscAxWrapper\bin\Debug\MsTscAxWrapper.dll
+D:\01. Jobz\C#Project\MultiRDP\MsTscAxWrapper\bin\Debug\MsTscAxWrapper.pdb
+D:\01. Jobz\C#Project\MultiRDP\MsTscAxWrapper\bin\Debug\MSTSCLib.dll
+D:\01. Jobz\C#Project\MultiRDP\MsTscAxWrapper\obj\Debug\ResolveAssemblyReference.cache
+D:\01. Jobz\C#Project\MultiRDP\MsTscAxWrapper\obj\Debug\MsTscAxWrapper.dll
+D:\01. Jobz\C#Project\MultiRDP\MsTscAxWrapper\obj\Debug\MsTscAxWrapper.pdb

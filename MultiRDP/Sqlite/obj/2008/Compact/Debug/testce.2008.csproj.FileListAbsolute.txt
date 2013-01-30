@@ -1,0 +1,8 @@
+D:\01. Jobz\C#Project\MultiRDP\Sqlite\bin\2008\DebugCompact\bin\test.cfg
+D:\01. Jobz\C#Project\MultiRDP\Sqlite\bin\2008\DebugCompact\bin\testce.exe
+D:\01. Jobz\C#Project\MultiRDP\Sqlite\bin\2008\DebugCompact\bin\testce.pdb
+D:\01. Jobz\C#Project\MultiRDP\Sqlite\obj\2008\Compact\Debug\ResolveAssemblyReference.cache
+D:\01. Jobz\C#Project\MultiRDP\Sqlite\obj\2008\Compact\Debug\test.Form1.resources
+D:\01. Jobz\C#Project\MultiRDP\Sqlite\obj\2008\Compact\Debug\testce.2008.csproj.GenerateResource.Cache
+D:\01. Jobz\C#Project\MultiRDP\Sqlite\obj\2008\Compact\Debug\testce.exe
+D:\01. Jobz\C#Project\MultiRDP\Sqlite\obj\2008\Compact\Debug\testce.pdb

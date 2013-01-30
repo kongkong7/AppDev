@@ -1,0 +1,5 @@
+D:\01. Jobz\C#Project\MultiRDP\TextboxRequiredWrapper\bin\x64\Debug\TextboxRequiredWrapper.dll
+D:\01. Jobz\C#Project\MultiRDP\TextboxRequiredWrapper\bin\x64\Debug\TextboxRequiredWrapper.pdb
+D:\01. Jobz\C#Project\MultiRDP\TextboxRequiredWrapper\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\01. Jobz\C#Project\MultiRDP\TextboxRequiredWrapper\obj\x64\Debug\TextboxRequiredWrapper.dll
+D:\01. Jobz\C#Project\MultiRDP\TextboxRequiredWrapper\obj\x64\Debug\TextboxRequiredWrapper.pdb

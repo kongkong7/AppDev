@@ -1,0 +1,7 @@
+D:\01. Jobz\C#Project\MultiRDP\Sqlite\bin\2008\Debug\bin\northwindEF.db
+D:\01. Jobz\C#Project\MultiRDP\Sqlite\bin\2008\Debug\bin\testlinq.exe.config
+D:\01. Jobz\C#Project\MultiRDP\Sqlite\bin\2008\Debug\bin\testlinq.exe
+D:\01. Jobz\C#Project\MultiRDP\Sqlite\bin\2008\Debug\bin\testlinq.pdb
+D:\01. Jobz\C#Project\MultiRDP\Sqlite\obj\2008\Debug\ResolveAssemblyReference.cache
+D:\01. Jobz\C#Project\MultiRDP\Sqlite\obj\2008\Debug\testlinq.exe
+D:\01. Jobz\C#Project\MultiRDP\Sqlite\obj\2008\Debug\testlinq.pdb

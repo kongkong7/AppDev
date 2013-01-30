@@ -1,0 +1,10 @@
+D:\01. Jobz\C#Project\MultiRDP\Database\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\01. Jobz\C#Project\MultiRDP\Database\bin\x86\Debug\Database.dll
+D:\01. Jobz\C#Project\MultiRDP\Database\bin\x86\Debug\Database.pdb
+D:\01. Jobz\C#Project\MultiRDP\Database\bin\x86\Debug\RijndaelEncryptDecrypt.dll
+D:\01. Jobz\C#Project\MultiRDP\Database\bin\x86\Debug\System.Data.SQLite.dll
+D:\01. Jobz\C#Project\MultiRDP\Database\bin\x86\Debug\System.Data.SQLite.pdb
+D:\01. Jobz\C#Project\MultiRDP\Database\bin\x86\Debug\RijndaelEncryptDecrypt.pdb
+D:\01. Jobz\C#Project\MultiRDP\Database\obj\x86\Debug\Database.dll
+D:\01. Jobz\C#Project\MultiRDP\Database\obj\x86\Debug\Database.pdb
+D:\01. Jobz\C#Project\MultiRDP\Database\bin\x86\Debug\Database.dll.config

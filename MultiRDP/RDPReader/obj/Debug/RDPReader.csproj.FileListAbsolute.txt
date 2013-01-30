@@ -1,0 +1,5 @@
+D:\01. Jobz\C#Project\MultiRDP\RDPReader\bin\Debug\RDPReader.dll
+D:\01. Jobz\C#Project\MultiRDP\RDPReader\bin\Debug\RDPReader.pdb
+D:\01. Jobz\C#Project\MultiRDP\RDPReader\obj\Debug\ResolveAssemblyReference.cache
+D:\01. Jobz\C#Project\MultiRDP\RDPReader\obj\Debug\RDPReader.dll
+D:\01. Jobz\C#Project\MultiRDP\RDPReader\obj\Debug\RDPReader.pdb

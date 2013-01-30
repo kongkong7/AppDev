@@ -1,0 +1,17 @@
+D:\01. Jobz\C#Project\MultiRDP\RemoteDesktopClient\bin\Debug\MultiRemoteDesktopClient.exe.config
+D:\01. Jobz\C#Project\MultiRDP\RemoteDesktopClient\obj\Debug\ResolveAssemblyReference.cache
+D:\01. Jobz\C#Project\MultiRDP\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.Controls.RDThumbnail.resources
+D:\01. Jobz\C#Project\MultiRDP\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.ConfigurationWindow.resources
+D:\01. Jobz\C#Project\MultiRDP\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.AboutWindow.resources
+D:\01. Jobz\C#Project\MultiRDP\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.ExportWindow.resources
+D:\01. Jobz\C#Project\MultiRDP\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.ImportWindow.resources
+D:\01. Jobz\C#Project\MultiRDP\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.RdpClientWindow.resources
+D:\01. Jobz\C#Project\MultiRDP\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.PasswordWindow.resources
+D:\01. Jobz\C#Project\MultiRDP\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.GroupManagerWindow.resources
+D:\01. Jobz\C#Project\MultiRDP\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.PopupMDIContainer.resources
+D:\01. Jobz\C#Project\MultiRDP\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.Properties.Resources.resources
+D:\01. Jobz\C#Project\MultiRDP\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.RemoteDesktopClient.resources
+D:\01. Jobz\C#Project\MultiRDP\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.ServerSettingsWindow.resources
+D:\01. Jobz\C#Project\MultiRDP\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.SplashScreenWindow.resources
+D:\01. Jobz\C#Project\MultiRDP\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.RDThumbnailsWindow.resources
+D:\01. Jobz\C#Project\MultiRDP\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.csproj.GenerateResource.Cache

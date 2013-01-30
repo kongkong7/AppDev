@@ -1,0 +1,5 @@
+D:\01. Jobz\C#Project\MultiRDP\Win32APIs\bin\x64\Debug\Win32APIs.dll
+D:\01. Jobz\C#Project\MultiRDP\Win32APIs\bin\x64\Debug\Win32APIs.pdb
+D:\01. Jobz\C#Project\MultiRDP\Win32APIs\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\01. Jobz\C#Project\MultiRDP\Win32APIs\obj\x64\Debug\Win32APIs.dll
+D:\01. Jobz\C#Project\MultiRDP\Win32APIs\obj\x64\Debug\Win32APIs.pdb

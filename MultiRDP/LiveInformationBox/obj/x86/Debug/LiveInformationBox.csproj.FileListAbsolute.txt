@@ -1,0 +1,10 @@
+D:\01. Jobz\C#Project\MultiRDP\LiveInformationBox\bin\x86\Debug\LiveInformationBox.dll
+D:\01. Jobz\C#Project\MultiRDP\LiveInformationBox\bin\x86\Debug\LiveInformationBox.pdb
+D:\01. Jobz\C#Project\MultiRDP\LiveInformationBox\bin\x86\Debug\Win32APIs.dll
+D:\01. Jobz\C#Project\MultiRDP\LiveInformationBox\bin\x86\Debug\Win32APIs.pdb
+D:\01. Jobz\C#Project\MultiRDP\LiveInformationBox\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\01. Jobz\C#Project\MultiRDP\LiveInformationBox\obj\x86\Debug\LiveInformationBox.InfoWindow.resources
+D:\01. Jobz\C#Project\MultiRDP\LiveInformationBox\obj\x86\Debug\LiveInformationBox.Properties.Resources.resources
+D:\01. Jobz\C#Project\MultiRDP\LiveInformationBox\obj\x86\Debug\LiveInformationBox.csproj.GenerateResource.Cache
+D:\01. Jobz\C#Project\MultiRDP\LiveInformationBox\obj\x86\Debug\LiveInformationBox.dll
+D:\01. Jobz\C#Project\MultiRDP\LiveInformationBox\obj\x86\Debug\LiveInformationBox.pdb
